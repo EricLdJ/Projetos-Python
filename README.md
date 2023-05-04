@@ -1,2 +1,2 @@
-# Semáforo interativo
-# Projeto Criado para matéria "Projeto Final" Do curso de Eletrotécnica no IFRJ - Campus Paracambi.
+# Projetos
+# São projetos pessoais, com o intuito de aumentar meu conhecimentos e minhas técnicas em Python.
