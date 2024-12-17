@@ -1,6 +1,7 @@
 from PyQt5.QtWidgets import QApplication, QLabel, QPushButton, QLineEdit, QVBoxLayout, QWidget, QMainWindow
 from PyQt5.QtCore import Qt, QTimer
 import sys
+# to use de library PyQt5: pip install PyQt5 and python.exe -m pip install --upgrade pip   on the terminal!
 
 app= QApplication([])
 app.setApplicationName("Semáforo Interativo")
